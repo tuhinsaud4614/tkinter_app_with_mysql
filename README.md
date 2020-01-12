@@ -11,6 +11,7 @@ This project is created for implementing **crud** technique with **mysql** and a
     ``sudo apt install python3-venv``<br/>
     ``python3 -m venv [project_name]``<br/>
     ``cd "[project_name]"``<br/>
+    > Move src directory into the [project_name] directory <br/>
     ``source bin/activate``
 - Required packages installation
     ``pip3 install -r requirements.txt``<br/>
